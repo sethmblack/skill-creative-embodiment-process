@@ -3,7 +3,7 @@ name: creative-embodiment-process
 description: Transform understanding into expression, moving from insight to embodied creation through Hildegard's principle that knowledge must be "sounded" to become real. The soul is symphonic—it must make m...
 license: MIT
 metadata:
-  version: 1.0.3710
+  version: 1.0.3711
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
